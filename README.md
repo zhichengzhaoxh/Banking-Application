@@ -1,8 +1,6 @@
 # Banking-Application
 
 Bank account functions: 
-
-
 check balance
 
 deposit
